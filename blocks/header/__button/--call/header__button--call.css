@@ -1,0 +1,5 @@
+.header__button--call {
+  margin-right: 15px;
+
+  background-image: url(../../../../icons/call.svg);
+}

@@ -1,0 +1,5 @@
+.header__button--chat {
+  margin-right: 15px;
+
+  background-image: url(../../../../icons/chat.svg);
+}

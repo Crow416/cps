@@ -1,0 +1,5 @@
+.header__button--profile {
+  margin-right: 32px;
+
+  background-image: url(../../../../icons/profile.svg);
+}

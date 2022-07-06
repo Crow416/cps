@@ -1,0 +1,9 @@
+.header__group-items--user {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .header__group-items--user {
+    display: flex;
+  }
+}

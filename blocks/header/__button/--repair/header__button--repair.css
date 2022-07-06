@@ -1,0 +1,10 @@
+.header__button--repair {
+  margin-left: 20px;
+  background-image: url(../../../../icons/repair.svg);
+}
+
+@media (min-width: 768px) {
+  .header__button--repair {
+    margin-left: 7px;
+  }
+}

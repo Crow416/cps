@@ -1,0 +1,33 @@
+@import url(../vendor/normalize.css);
+
+@import url(../fonts/TTLakes/stylesheet.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+
+@import url(../blocks/header/__group-items/header__group-items.css);
+
+@import url(../blocks/header/__button/header__button.css);
+
+@import url(../blocks/header/__button/--title/header__button--title.css);
+
+@import url(../blocks/header/__button/--menu/header__button--menu.css);
+
+@import url(../blocks/header/__logo/header__logo.css);
+
+@import url(../blocks/header/__button/--repair/header__button--repair.css);
+
+@import url(../blocks/header/__button/--check-status/header__button--check-status.css);
+
+@import url(../blocks/header/__divider/header__divider.css);
+
+@import url(../blocks/header/__divider/--logo/header__divider--logo.css);
+
+@import url(../blocks/header/__button/--call/header__button--call.css);
+
+@import url(../blocks/header/__button/--chat/header__button--chat.css);
+
+@import url(../blocks/header/__button/--profile/header__button--profile.css);
+
+@import url(../blocks/header/__group-items/--user/header__group-items--user.css);

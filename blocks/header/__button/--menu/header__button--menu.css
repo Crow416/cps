@@ -1,0 +1,9 @@
+.header__button--menu {
+  background-image: url(../../../../icons/burger.svg);
+}
+
+@media (min-width: 768px) {
+  .header__button--menu {
+    margin-right: 21px;
+  }
+}
